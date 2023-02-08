@@ -132,6 +132,7 @@ GitHub.sublime-settings
 #linters settings
 .flake8
 pyproject.toml
+setup.cfg
 
 #additional exclusions
 staticfiles
